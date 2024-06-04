@@ -34,5 +34,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srnshj30&" alt="srnshj30" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=srnshj30&label=Profile%20views&color=0e75b6&style=flat" alt="srnshj30" /> </p>
+[![](https://visitcount.itsvg.in/api?id=Srnshj30&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
 <p align="left"> <a href="https://twitter.com/srnshj30" target="blank"><img src="https://img.shields.io/twitter/follow/srnshj30?logo=twitter&style=for-the-badge" alt="srnshj30" /></a> </p>
